@@ -8,4 +8,4 @@ Hello there! My name is Selin and I currently am a 3rd year Electrical-Electroni
   - Geometrical Optics
     * [Spectrometer Design in Zemax OpticStudio](https://github.com/selnisa/Projects/blob/main/Spectrometer%20Design%20in%20Zemax%20OpticStudio.pdf)
   - Sensors And Measurement Systems
-    * [Touch Sensor And NPN Test Module Circuit Design And Prototype Testing](https://github.com/selnisa/Projects/blob/main/Touch%20Sensor%20And%20NPN%20Test%20Module%20Circuit%20Design%20And%20Prototype%20Testing.pdf)
+    * [Testing And Characterization of Infrared Obstacle Sensor](https://github.com/selnisa/Projects/blob/main/Testing%20And%20Characterization%20of%20Infrared%20Obstacle%20Sensor.pdf)
