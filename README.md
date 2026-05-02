@@ -1,4 +1,4 @@
-Hello there! My name is Selin and I currently am a 3rd year Electrical-Electronics Engineer student at Abdullah Gül University. To sum, everything I did are:
+Hello there! My name is Selin and I currently am a 3rd year Electrical-Electronics Engineer student at Abdullah Gül University. To sum, everything I did/am doing are:
 ## 25-26 Spring Semester:
   - Biomedical System Design Capsule
       * [A Texture-Enhanced Deep Learning Pipeline for Binary Class Cervical Cytology Classification using the SIPaKMeD Dataset](https://github.com/selnisa/Biomedical-System-Design-Capsule-Project/blob/main/README.md)
