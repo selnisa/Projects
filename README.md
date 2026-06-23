@@ -1,9 +1,10 @@
 Hello there! My name is Selin and I currently am a 3rd year Electrical-Electronics Engineer student at Abdullah Gül University. To sum, every project I did/am doing for my courses are:
 ## 25-26 Spring Semester:
   - Biomedical System Design Capsule
-      * [A Texture-Enhanced Deep Learning Pipeline for Binary Class Cervical Cytology Classification using the SIPaKMeD Dataset](https://github.com/selnisa/Biomedical-System-Design-Capsule-Project/blob/main/README.md)
+      * [Explainable Cervical Cell Classification: A Comparison of Preprocessing-Enhanced Machine Learning and Deep Learning Approach with Grad-CAM using SIPaKMeD](https://github.com/selnisa/Biomedical-System-Design-Capsule-Project/blob/main/README.md)
   - Telecommunication System Design Capsule Using DSP
-      * BPSK of corrupted speech file (TBD)
+      * [Wirelessly Transmitting A High-Frequency Corrupted Audio File with BPSK Modulation Using USRP](https://github.com/selnisa/EE3001-Term-Project/tree/main)
+      * [Dipole Antenna Array Design And Simulation in CST]()
 ## 25-26 Fall Semester:
   - Electronics 2
     * [Touch Sensor And NPN Test Module Circuit Design And Prototype Testing](http://github.com/selnisa/Projects/blob/main/Touch%20Sensor%20And%20NPN%20Test%20Module%20Circuit%20Design%20And%20Prototype%20Testing.pdf)
