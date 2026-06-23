@@ -1,4 +1,4 @@
-Hello there! My name is Selin and I currently am a 3rd year Electrical-Electronics Engineer student at Abdullah Gül University. To sum, every project I did/am doing for my courses are:
+Hello there! My name is Selin and I am currently a 4th-year Electrical-Electronics Engineering student at Abdullah Gül University. To sum, every project I did/am doing for my courses are:
 ## 25-26 Spring Semester:
   - Biomedical System Design Capsule
       * [Explainable Cervical Cell Classification: A Comparison of Preprocessing-Enhanced Machine Learning and Deep Learning Approach with Grad-CAM using SIPaKMeD](https://github.com/selnisa/Biomedical-System-Design-Capsule-Project/blob/main/README.md)
