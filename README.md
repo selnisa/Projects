@@ -5,7 +5,7 @@ Hello there! My name is Selin and I currently am a 3rd year Electrical-Electroni
   - Telecommunication System Design Capsule Using DSP
       * [Wirelessly Transmitting A High-Frequency Corrupted Audio File with BPSK Modulation Using USRP](https://github.com/selnisa/EE3001-Term-Project/tree/main)
   - Antennas
-      * [Dipole Antenna Array Design And Simulation in CST]()
+      * [Dipole Antenna Array Design And Simulation in CST](https://github.com/selnisa/Projects/blob/main/SNA_M%C3%87_Project.pdf)
 ## 25-26 Fall Semester:
   - Electronics 2
     * [Touch Sensor And NPN Test Module Circuit Design And Prototype Testing](http://github.com/selnisa/Projects/blob/main/Touch%20Sensor%20And%20NPN%20Test%20Module%20Circuit%20Design%20And%20Prototype%20Testing.pdf)
